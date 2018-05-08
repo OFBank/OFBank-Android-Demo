@@ -2,7 +2,7 @@
 
 ######更新时间：2018-05-08
 
-> Android SDK 最新版本0.1.0
+> Android SDK 最新版本1.0.0
 
 > 挖矿SDK Demo, [点击这里](https://github.com/OFBank/OFBank-Android-Demo.git)
 
